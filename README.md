@@ -1,4 +1,7 @@
-# Discord-Vanity-URL-Sniper
+# Premium??
+Daha hızlı bir network ile hazırda çalışan ve 1 URL yerine 1000 URL'ye kadar aynı anda snipe edebileceğiniz premium özelliğini satın almak için **discord : @kadinkatili**
+
+## Discord-Vanity-URL-Sniper
 Özel davet bağlantılarını api kontrolü yöntemi ile 0.0001 Milisaniyede bir kontrol eder ve Sunucuya Alır.
 
 ## Kod Hakkında
